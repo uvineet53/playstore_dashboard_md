@@ -12,4 +12,4 @@ with col1:
 
 with col2:
     st.area_chart(data=ratings, x='Developer', y='Rating', use_container_width=True)
-    st.scatter_chart(data=ratings, x='Genre', y='Rating', use_container_width=True)
+    st.scatter_chart(data=ratings, x='Genre', y='Rating', use_container_width=True) 
